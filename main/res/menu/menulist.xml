@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/about"
+        android:title="About us" />
+    <item
+        android:id="@+id/AsyncTask"
+        android:title="AsyncTask" />
+    <item
+        android:id="@+id/Contact"
+        android:title="Contact" />
+    <item
+        android:id="@+id/Second"
+        android:title="Second activity"
+        tools:ignore="DuplicateIds" />
+</menu>
